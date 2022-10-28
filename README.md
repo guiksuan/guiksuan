@@ -46,11 +46,11 @@
 
 ## Contact
 
-<a href="https://youtube.com/guiksuan" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
 <a href="https://linkedin.com/in/guiksuan" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://youtube.com/guiksuan" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 <a href="https://twitter.com/guiksuan" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=twitter" alt="twitter"/>  
