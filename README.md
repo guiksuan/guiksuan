@@ -34,3 +34,5 @@
   <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 </p>
+<br><br>
+ ![Snake animation](https://github.com/guiksuan/guiksuan/blob/output/github-contribution-grid-snake.svg)
