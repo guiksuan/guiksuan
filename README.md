@@ -3,7 +3,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guiksuan&show_icons=true&theme=vision-friendly-dark" alt="guiksuan's stats"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guiksuan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
 <br>
 
