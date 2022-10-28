@@ -46,39 +46,16 @@
 
 ## Contact
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://twitter.com/guiksuan" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/guiksuan" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/guiksuan" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://youtube.com/guiksuan" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-guiksuan-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**guiksuan/guiksuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
